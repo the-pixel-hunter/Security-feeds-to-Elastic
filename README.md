@@ -28,6 +28,7 @@ About:
 - IT Security
 - General
 - Advisery
+- Vendor
 - Raw Intel
 
 
