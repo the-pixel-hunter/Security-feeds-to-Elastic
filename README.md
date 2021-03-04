@@ -38,3 +38,4 @@ About:
 - More Dashboards
 - Stand Format
 - Add Geo Data for Pipelines
+- Install guide
