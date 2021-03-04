@@ -6,19 +6,29 @@ Logstash RSS poll => Pipeles to add fields/modify => ElasticSearch => View in Ki
 
 - Install elasticsearch, Logstash, Kibana
 - Download logstash pipelines,
-- Add config to pipeline.yml config
+- Add config to pipeline.yml file
+- Create Index
 - Import Obejects for fancy dashboards
 
 ### Tags
+Tags are used in visualtions to describe the articals, and also show certian ones in dashbaords.
 
-geo.news_location: United Kingdom
-Source: 
+Source Tags:
+Use one of these tags to dertimine the geo location of the news
+- WorldWide
+- UK
+- USA
+- Europe
+- Asia
 
-tags: 
+About: 
+- Author/Company
 - Blogs
 - News
-- Security
-- General 
+- IT Security
+- General
+- Advisery
+- Raw Intel
 
 
 ## Install
@@ -27,4 +37,4 @@ tags:
 - More Security Feeds
 - More Dashboards
 - Stand Format
-- 
+- Add Geo Data for Pipelines
