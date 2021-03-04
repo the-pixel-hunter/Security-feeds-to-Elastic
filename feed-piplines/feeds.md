@@ -3,13 +3,13 @@
 - [x] Microsoft Security Response Center   | Url
 - [ ] Google Online Security Blog | http://feeds.feedburner.com/GoogleOnlineSecurityBlog
 - [ ] We Live Security | http://feeds.feedburner.com/eset/blog
-- [ ] Krebs On Security | krebsonsecurity.com/feed 
-- [ ] Dark Reading  | darkreading.com/rss/all.xml
-- [ ] Schneier On Security  | schneier.com/blog/atom.xml 
-- [ ] Threatpost  |  threatpost.com/feed 
-- [ ] Naked Security  | nakedsecurity.sophos.com/feed 
-- [ ] Cisco Security Blog  | blogs.cisco.com /security/feed 
-- [ ] Bleeping Computer  |  bleepingcomputer.com/feed 
+- [ ] Krebs On Security | http://krebsonsecurity.com/feed 
+- [ ] Dark Reading  | http://darkreading.com/rss/all.xml
+- [ ] Schneier On Security  | http://schneier.com/blog/atom.xml 
+- [ ] Threatpost  |  http://threatpost.com/feed 
+- [ ] Naked Security  | http://nakedsecurity.sophos.com/feed 
+- [ ] Cisco Security Blog  | http://blogs.cisco.com/security/feed 
+- [ ] Bleeping Computer  |  http://bleepingcomputer.com/feed 
 - [ ] CrowdStrike  | https://www.crowdstrike.com/blog/
 - [ ] Elastic  | https://www.elastic.co/blog/feed
 - [ ] Volexity  | https://www.volexity.com/blog/feed/
