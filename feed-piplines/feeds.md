@@ -14,12 +14,12 @@
 - [ ] Elastic  | https://www.elastic.co/blog/feed
 - [ ] Volexity  | https://www.volexity.com/blog/feed/
 - [ ] Reddit /r NetSec  | https://www.reddit.com/r/netsec/.rss
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
+- [ ] Cisco Talos  | http://feeds.feedburner.com/feedburner/Talos
+- [ ] Tech Republic  | https://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
+- [ ] NIST Security  | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+- [ ] The Hacker News  | http://feeds.feedburner.com/TheHackersNews?format=xml
+- [ ] Troy Hunt  | https://www.troyhunt.com/rss/
+- [ ] Volexity | https://www.volexity.com/blog/feed/
 - [ ] Name  | Url
 - [ ] Name  | Url
 - [ ] Name  | Url
