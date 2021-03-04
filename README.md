@@ -35,10 +35,12 @@ About:
 ## Install
 
 ## To-DO
-- More Security Feeds
-- More Dashboards
-- Make use of Canvas
-- Stand Format
-- Add Geo Data for Source
-- Add more custom fields
-- Install guide
+- [ ] Always More Security Feeds
+- [ ] More Dashboards
+- [ ] Make use of Canvas
+- [ ] Add Geo Data for Source
+- [ ] Add more custom fields
+- [ ] Install guide
+
+## Future Projects 
+- [ ] Security Twitter feeds
