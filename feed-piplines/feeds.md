@@ -1,19 +1,19 @@
 # Feeds Configured or to confiugre
 - [x] ZDnet | url
-- [x] MRC   | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
-- [ ] Name  | Url
+- [x] Microsoft Security Response Center   | Url
+- [ ] Google Online Security Blog | http://feeds.feedburner.com/GoogleOnlineSecurityBlog
+- [ ] We Live Security | http://feeds.feedburner.com/eset/blog
+- [ ] Krebs On Security | krebsonsecurity.com/feed 
+- [ ] Dark Reading  | darkreading.com/rss/all.xml
+- [ ] Schneier On Security  | schneier.com/blog/atom.xml 
+- [ ] Threatpost  |  threatpost.com/feed 
+- [ ] Naked Security  | nakedsecurity.sophos.com/feed 
+- [ ] Cisco Security Blog  | blogs.cisco.com /security/feed 
+- [ ] Bleeping Computer  |  bleepingcomputer.com/feed 
+- [ ] CrowdStrike  | https://www.crowdstrike.com/blog/
+- [ ] Elastic  | https://www.elastic.co/blog/feed
+- [ ] Volexity  | https://www.volexity.com/blog/feed/
+- [ ] Reddit /r NetSec  | https://www.reddit.com/r/netsec/.rss
 - [ ] Name  | Url
 - [ ] Name  | Url
 - [ ] Name  | Url
