@@ -34,7 +34,7 @@ About:
 
 ## Install
 
-## To-DO
+## To-Do
 - [ ] Always More Security Feeds
 - [ ] More Dashboards
 - [ ] Make use of Canvas
