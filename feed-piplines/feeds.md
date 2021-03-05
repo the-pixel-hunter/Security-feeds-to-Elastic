@@ -1,25 +1,24 @@
 # Feeds Configured or to confiugre
 - [x] ZDnet | url
 - [x] Microsoft Security Response Center   | Url
-- [ ] Google Online Security Blog | http://feeds.feedburner.com/GoogleOnlineSecurityBlog
-- [ ] We Live Security | http://feeds.feedburner.com/eset/blog
-- [ ] Krebs On Security | http://krebsonsecurity.com/feed 
-- [ ] Dark Reading  | http://darkreading.com/rss/all.xml
-- [ ] Schneier On Security  | http://schneier.com/blog/atom.xml 
-- [ ] Threatpost  |  http://threatpost.com/feed 
-- [ ] Naked Security  | http://nakedsecurity.sophos.com/feed 
-- [ ] Cisco Security Blog  | http://blogs.cisco.com/security/feed 
-- [ ] Bleeping Computer  |  http://bleepingcomputer.com/feed 
-- [ ] CrowdStrike  | https://www.crowdstrike.com/blog/
+- [X] Google Online Security Blog | http://feeds.feedburner.com/GoogleOnlineSecurityBlog
+- [X] We Live Security | http://feeds.feedburner.com/eset/blog
+- [X] Krebs On Security | http://krebsonsecurity.com/feed 
+- [X] Dark Reading  | http://darkreading.com/rss/all.xml
+- [X] Schneier On Security  | http://schneier.com/blog/atom.xml 
+- [X] Threatpost  |  http://threatpost.com/feed 
+- [X] Naked Security  | http://nakedsecurity.sophos.com/feed 
+- [X] Cisco Security Avisory  | http://blogs.cisco.com/security/feed 
+- [X] Bleeping Computer  |  https://www.bleepingcomputer.com/feed/
+- [ ] CrowdStrike  | https://www.crowdstrike.com/blog/feed/ | issues
 - [ ] Elastic  | https://www.elastic.co/blog/feed
-- [ ] Volexity  | https://www.volexity.com/blog/feed/
-- [ ] Reddit /r NetSec  | https://www.reddit.com/r/netsec/.rss
-- [ ] Cisco Talos  | http://feeds.feedburner.com/feedburner/Talos
+- [X] Reddit /r NetSec  | https://www.reddit.com/r/netsec/.rss
+- [X] Cisco Talos  | https://feeds.feedburner.com/feedburner/Talos
 - [ ] Tech Republic  | https://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
 - [ ] NIST Security  | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
-- [ ] The Hacker News  | http://feeds.feedburner.com/TheHackersNews?format=xml
-- [ ] Troy Hunt  | https://www.troyhunt.com/rss/
-- [ ] Volexity | https://www.volexity.com/blog/feed/
+- [X] The Hacker News  | http://feeds.feedburner.com/TheHackersNews/
+- [X] Troy Hunt  | https://www.troyhunt.com/rss/
+- [X] Volexity | https://www.volexity.com/blog/feed/
 - [ ] Name  | Url
 - [ ] Name  | Url
 - [ ] Name  | Url
