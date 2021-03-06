@@ -20,8 +20,6 @@
 - [X] The Hacker News  | http://feeds.feedburner.com/TheHackersNews/
 - [X] Troy Hunt  | https://www.troyhunt.com/rss/
 - [X] Volexity | https://www.volexity.com/blog/feed/
-- [ ] ianduffy.conf  | http://ianduffy.ie/index.xml
-- [ ] mathyvanhoef.conf  | http://www.mathyvanhoef.com/feeds/posts/default
 - [ ] portswigger.conf  | http://blog.portswigger.net/feeds/posts/default
 - [ ] secureworks.conf  | https://www.secureworks.com/rss?feed=research
 - [ ] us-cert.conf  | http://www.us-cert.gov/channels/techalerts.rdf
@@ -31,7 +29,6 @@
 - [ ] room362.conf | https://room362.com/post/index.xml
 - [ ] n00py.conf | https://www.n00py.io/feed/
 - [ ] fireeyetr.conf | https://www.fireeye.com/blog/threat-research/_jcr_content.feed
-
 - [ ] n | http://r00tsec.blogspot.com/feeds/posts/default
 - [ ] n | http://www.contextis.com/resources/blog/blog.xml
 - [ ] n | http://feeds.trendmicro.com/Anti-MalwareBlog/
@@ -251,8 +248,6 @@
 - [ ] n | pwned	http://www.reddit.com/r/pwned/.rss
 - [ ] n | IOActive Labs Research	http://ioactivelabs.blogspot.com/feeds/posts/default
 - [ ] n | Airbus D&S CyberSecurity blog	http://blog.cassidiancybersecurity.com/feed/atom
-- [ ] n | Dr Anton Chuvakin Blog PERSONAL ...	http://chuvakin.blogspot.com/feeds/posts/default
-- [ ] n | - [ ] n | Tracking Cybercrime	http://cyb3rsleuth.blogspot.com/feeds/posts/default
 - [ ] n | Uncommon Sense Security	http://blog.uncommonsensesecurity.com/feeds/posts/default
 - [ ] n | HACKMIAMI	http://hackmiami.org/feed/
 - [ ] n | Exodus Intelligence	http://blog.exodusintel.com/feed/
@@ -281,8 +276,6 @@
 - [ ] n | OpenDNS Umbrella Blog	http://feeds.opendns.com/OpendnsBlog
 - [ ] n | Menlo Security Blog	https://www.menlosecurity.com/blog/rss.xml
 - [ ] n | Nullable Security	https://blog.nullable.software/feeds/posts/default
-- [ ] n | Carnal0wnage & Attack Research Blog	http://carnal0wnage.attackresearch.com/rss.xml
-- [ ] n | A Few Thoughts on Cryptographic Engineering	http://blog.cryptographyengineering.com/feeds/posts/default
 - [ ] n | Blaze's Security Blog	http://bartblaze.blogspot.com/feeds/posts/default
 - [ ] n | SANS Internet Storm Center	http://isc.sans.org/rssfeed.xml
 - [ ] n | DigitalMunition	http://www.digitalmunition.me/feed/
