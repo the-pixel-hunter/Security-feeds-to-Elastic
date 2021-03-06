@@ -11,7 +11,7 @@ Logstash RSS poll => Pipeles to add fields/modify => ElasticSearch => View in Ki
 - Import Obejects for fancy dashboards
 
 ### Tags
-Tags are only used 
+Tags are only used to ensure that the correct filters are applied to the correct feed
 
 ### Added Fields
 
