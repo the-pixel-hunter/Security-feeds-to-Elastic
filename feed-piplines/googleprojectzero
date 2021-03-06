@@ -1,0 +1,17 @@
+#https://googleprojectzero.blogspot.com/feeds/posts/default
+input{
+  rss{
+    interval => 180
+    url => "https://googleprojectzero.blogspot.com/feeds/posts/default"
+    tags => ["googlezero", "Blogs", "WorldWide"]
+  }
+}
+# Input filter if filed needs converting or chaning. also add the source here.
+filter{
+if ("googlezero" in [tags]){
+    mutate {
+        add_field => { "source" => "Google Project Zero" }
+        add_field => { "vendor" => "Google" }
+        }
+}
+}
