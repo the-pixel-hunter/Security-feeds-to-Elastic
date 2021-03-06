@@ -1,7 +1,7 @@
 # Feeds Configured or to confiugre
-| filename | url |
-|---       |---  |
-- [x] ZDnet | url
+| # |Status| filename | url |
+|---| - - -|---       |---  |
+| [x] ZDnet | url |
 - [x] Microsoft Security Response Center   | Url
 - [X] Google Online Security Blog | http://feeds.feedburner.com/GoogleOnlineSecurityBlog
 - [X] We Live Security | http://feeds.feedburner.com/eset/blog
