@@ -17,12 +17,12 @@
 - [X] ciscotalos.conf  | https://feeds.feedburner.com/feedburner/Talos
 - [X] techrepublic.conf | https://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
 - [X] nistsec.conf  | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
-- [X] thn.conf  | http://feeds.feedburner.com/TheHackersNews/
+- [X] thn.conf  | https://feeds.feedburner.com/TheHackersNews/
 - [X] troyhunt.conf  | https://www.troyhunt.com/rss/
 - [X] volexity.conf | https://www.volexity.com/blog/feed/
-- [ ] portswigger.conf  | http://blog.portswigger.net/feeds/posts/default
+- [ ] portswigger.conf  | https://blog.portswigger.net/feeds/posts/default
 - [ ] secureworks.conf  | https://www.secureworks.com/rss?feed=research
-- [ ] us-cert.conf  | http://www.us-cert.gov/channels/techalerts.rdf
+- [ ] us-cert.conf  | https://www.us-cert.gov/channels/techalerts.rdf
 - [ ] optiv.con | https://www.optiv.com/resources/blog/feed
 - [ ] ctus.conf | https://ctus.io/rss/
 - [ ] logrhythm.conf | https://logrhythm.com/feed/
@@ -42,84 +42,36 @@
 - [ ] trustedsec.conf |	https://www.trustedsec.com/feed/
 - [ ] toolswatch.conf | https://toolswatch.org/feed/
 - [ ] kaspersky.conf |	https://www.kaspersky.com/blog/feed/
-- [ ] snort.conf | http://feeds.feedburner.com/Snort
+- [ ] snort.conf | https://feeds.feedburner.com/Snort
 - [ ] phishlab.conf | https://info.phishlabs.com/blog/rss.xml
 - [ ] paloalto.conf | https://feeds.feedburner.com/PaloAltoNetworks
 - [ ] aricrack-ng.conf | https://aircrack-ng.blogspot.com/feeds/posts/default
 - [ ] cloudflare.conf |	https://blog.cloudflare.com/rss/
-- [ ] n | Rapid7 Blog	https://blog.rapid7.com/rss/
-- [ ] n | Infosecurity	http://www.infosecurity-magazine.com/rss/news/
-- [ ] n | Attack and Defense Labs	http://blog.andlabs.org/feeds/posts/default
-- [ ] n | Veracode Blog	http://www.veracode.com/blog/feed/
-- [ ] redditvrd.conf | http://www.reddit.com/r/vrd/.rss
-- [ ] n | Don't Stuff Beans Up Your Nose	http://dontstuffbeansupyournose.com/feed/
-- [ ] n | Liquidmatrix Security Digest	http://feeds.feedburner.com/Liquidmatrix
-- [ ] n | Latest blog entries - 451 Research - Analyzing the Business of Enterprise IT Innovation	https://451research.com/blog?format=feed&type=rss
-- [ ] n | abuse.ch	http://www.abuse.ch/?feed=rss2
-- [ ] reddithb.conf | http://www.reddit.com/r/HackBloc/.rss
-- [ ] n | The Henrybasset Blog	https://henrybasset.blogspot.com/feeds/posts/default
-- [ ] n | Security-Shell	https://security-sh3ll.blogspot.com/feeds/posts/default
-- [ ] n | Application and Cybersecurity Blog	https://blog.securityinnovation.com/rss.xml
-- [ ] n | Heimdal Security Blog	http://feeds.feedburner.com/HeimdalSecurityBlog
-- [ ] n | Penetration Testing	http://seclists.org/rss/pen-test.rss
-- [ ] n | The LastPass Blog	https://blog.lastpass.com/feed/
-- [ ] n | Irongeek's Security Site	http://feeds.feedburner.com/IrongeeksSecuritySite
-- [ ] n | Kali Linux	https://www.kali.org/feed/
-- [ ] n | TaoSecurity	http://taosecurity.blogspot.com/feeds/posts/default
-- [ ] n | Tenable Blog	http://blog.tenablesecurity.com/atom.xml
-- [ ] n | Securosis Complete	https://securosis.com/feeds/blog-complete/
-- [ ] n | blackMORE Ops	http://www.blackmoreops.com/feed/
-- [ ] redditxss.conf | http://www.reddit.com/r/xss/.rss
-- [ ] n | ThreatTrack Security Labs Blog	http://feeds.feedburner.com/threattracksecurity
-- [ ] n | MalwareMustDie!	http://blog.malwaremustdie.org/atom.xml
-- [ ] redditmal.conf | http://www.reddit.com/r/Malware/.rss
-- [ ] n | Hacking – InfoSec Resources	http://resources.infosecinstitute.com/category/hacking-2/feed/
-- [ ] n | AlienVault Blogs	http://feeds.feedblitz.com/alienvault-blogs&x=1
-- [ ] n | Insanely Low	http://www.ragestorm.net/blogs/?feed=rss2
-- [ ] n | SecurityFocus News	http://www.securityfocus.com/rss/news.xml
-- [ ] n | CYBER ARMS - Computer Security	http://cyberarms.wordpress.com/feed/
-- [ ] n | The Internet Patrol	http://www.theinternetpatrol.com/feed/
-- [ ] n | Security – The Stack	https://thestack.com/category/security/feed/
-- [ ] n | MalwareTech	http://touchmymalware.blogspot.com/feeds/posts/default
-- [ ] n | ZeroSecurity	http://zerosecurity.org/feed/
-- [ ] fortinettr.conf | http://feeds.feedburner.com/fortinet/blog/threat-research
-- [ ] n | IT ProPortal	https://www.itproportal.com/rss/
-- [ ] n | Carbon Black	http://www.carbonblack.com/feed/
-- [ ] n | PaulDotCom	http://pauldotcom.com/atom.xml
-- [ ] n | Fire Eye Threat Research 	http://www.fireeye.com/blog/feed
-- [ ] n | Malware Intelligence Lab from FireEye - Research & Analysis of Zero-Day & Advanced Targeted Threats	http://feeds.feedburner.com/FE_research
-- [ ] n | Marco Ramilli's Blog	http://marcoramilli.blogspot.com/feeds/posts/default
-- [ ] n | The State of Security	http://feeds.feedburner.com/tripwire-state-of-security
-- [ ] n | Strategic Cyber LLC	httpss://blog.strategiccyber.com/feed/
-- [ ] n | TaoSecurity	https://taosecurity.blogspot.com/atom.xml
+- [ ] rapid7.conf | https://blog.rapid7.com/rss/
+- [ ] infosecmagazine.conf | https://www.infosecurity-magazine.com/rss/news/
+- [ ] veracode.conf | https://www.veracode.com/blog/feed/
+- [ ] redditvrd.conf | https://www.reddit.com/r/vrd/.rss
+- [ ] 451research.conf | https://451research.com/blog?format=feed&type=rss
+- [ ] abuse_ch.conf | https://abuse.ch/?feed=rss2
+- [ ] reddithb.conf | https://www.reddit.com/r/HackBloc/.rss
+- [ ] lastpass.conf | https://blog.lastpass.com/feed/
+- [ ] irongreeks.conf | https://feeds.feedburner.com/IrongeeksSecuritySite
+- [ ] kali.conf | https://www.kali.org/feed/
+- [ ] taosec.conf | https://taosecurity.blogspot.com/feeds/posts/default
+- [ ] tenable.conf | https://www.tenable.com/blog/feed
+- [ ] redditxss.conf | https://www.reddit.com/r/xss/.rss
+- [ ] malwaremustdie.conf |	https://blog.malwaremustdie.org/feeds/posts/default?alt=rss
+- [ ] redditmal.conf | https://www.reddit.com/r/Malware/.rss
+- [ ] fortinettr.conf | https://feeds.feedburner.com/fortinet/blog/threat-research
+- [ ] carbonblack.conf | https://www.carbonblack.com/feed/
+- [ ] fireeye.conf | https://www.fireeye.com/blog/feed
 - [ ] redditba.conf | https://www.reddit.com/r/blackhat/.rss
-- [ ] redditre.conf | https://www.reddit.com/r/ReverseEngineering/.rss
-- [ ] n | The Hacker's Choice - Freeworld News	http://freeworld.thc.org/rss.xml.php
-- [ ] n | Wired: Threat Level	http://blog.wired.com/27bstroke6/atom.xml
-- [ ] n | Blog	https://www.cybereason.com/blog/rss.xml
-- [ ] n | Exploit Development – InfoSec Resources	https://resources.infosecinstitute.com/category/exploit-development/feed/
-- [ ] n | Offensive Security	https://www.offensive-security.com/feed/
+- [ ] offensivesec.conf |	https://www.offensive-security.com/feed/
 - [ ] redditpwn.conf |	https://www.reddit.com/r/pwned/.rss
-- [ ] n | Airbus D&S CyberSecurity blog	https://blog.cassidiancybersecurity.com/feed/atom
-- [ ] n | Uncommon Sense Security	https://blog.uncommonsensesecurity.com/feeds/posts/default
-- [ ] n | HACKMIAMI	https://hackmiami.org/feed/
-- [ ] n | Exodus Intelligence	https://blog.exodusintel.com/feed/
-- [ ] n | Securelist / All Updates	https://www.securelist.com/en/rss/allupdates
-- [ ] n | Penetration Testing Lab	https://pentestlab.wordpress.com/feed/
 - [ ] thmcb.conf|	https://blog.intego.com/feed/
-- [ ] n | Malwarebytes Labs	https://blog.malwarebytes.org/feed/
-- [ ] n | Malware-Traffic-Analysis.net - Blog Entries	https://www.malware-traffic-analysis.net/blog-entries.rss
+- [ ] malwarebytes.conf| https://blog.malwarebytes.com/feed/
+- [ ] malwaretraffic.conf | https://www.malware-traffic-analysis.net/blog-entries.rss
 - [ ] redditroot.conf |	https://www.reddit.com/r/rootkit/.rss
-- [ ] n | Abysssec Security Research	https://www.abysssec.com/blog/feed/
-- [ ] n | pentestmonkey	https://feeds.feedburner.com/pentestmonkey
-- [ ] n | Security Padawan	https://securitypadawan.blogspot.com/feeds/posts/default
-- [ ] n | Malware Intelligence Blog	https://malwareint.blogspot.com/feeds/posts/default
-- [ ] n | RCE Endeavors	https://www.codereversing.com/blog/feed
-- [ ] n | The Malware Hunters	https://malware-hunters.net/feed/
-- [ ] n | Alienvault Labs	https://labs.alienvault.com/labs/index.php/feed/
-- [ ] n | ImperialViolet	https://www.imperialviolet.org/iv-rss.xml
-- [ ] n | HolisticInfoSec™	https://holisticinfosec.blogspot.com/feeds/posts/default
-- [ ] n | Checkmate	https://niiconsulting.com/checkmate/feed/
-- [ ] nvd.conf | http://nvd.nist.gov/download/nvd-rss.xml
+- [ ] nvd.conf | https://nvd.nist.gov/download/nvd-rss.xml
 - [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
