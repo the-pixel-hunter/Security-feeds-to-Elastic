@@ -11,28 +11,15 @@ Logstash RSS poll => Pipeles to add fields/modify => ElasticSearch => View in Ki
 - Import Obejects for fancy dashboards
 
 ### Tags
-Tags are used in visualtions to describe the articals, and also show certian ones in dashbaords.
+Tags are only used 
 
-Source Tags:
-Use one of these tags to dertimine the geo location of the news
-- WorldWide
-- UK
-- USA
-- Europe
-- Asia
+### Added Fields
 
-About: 
-- Author/Company
-- Blogs
-- News
-- IT Security
-- General
-- Advisery
-- Vendor
-- Raw Intel
-
-
-## Install
+- source: Author/Company
+- types: Blogs, News, Advisory, Raw Intel
+- vendor: Google, Cisco, CrowdStrike, Elastic, Neutral 
+- sub_catagorys: Technical, Vulnerablitys, IPs, Intel, Vendor
+- source_location: Worldwise, UK, USA, Europe, Asia
 
 ## To-Do
 - [ ] Always More Security Feeds
@@ -43,4 +30,4 @@ About:
 - [ ] Install guide
 
 ## Future Projects 
-- [ ] Security Twitter feeds
+- [ ] Security Twitter Pipelines
