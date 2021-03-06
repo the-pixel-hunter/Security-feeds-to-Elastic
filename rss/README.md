@@ -20,7 +20,8 @@
 - [X] thn.conf  | https://feeds.feedburner.com/TheHackersNews/
 - [X] troyhunt.conf  | https://www.troyhunt.com/rss/
 - [X] volexity.conf | https://www.volexity.com/blog/feed/
-- [ ] portswigger.conf  | https://blog.portswigger.net/feeds/posts/default
+### New Format
+- [x] portswigger.conf  | https://blog.portswigger.net/feeds/posts/default
 - [ ] secureworks.conf  | https://www.secureworks.com/rss?feed=research
 - [ ] us-cert.conf  | https://www.us-cert.gov/channels/techalerts.rdf
 - [ ] optiv.con | https://www.optiv.com/resources/blog/feed
