@@ -12,7 +12,7 @@
 - [X] Bleeping Computer  |  https://www.bleepingcomputer.com/feed/
 - [X] CrowdStrike  | https://www.crowdstrike.com/blog/feed
 - [X] Elastic  | https://www.elastic.co/blog/feed
-- [ ] Reddit /r NetSec  | https://www.reddit.com/r/netsec/.rss
+- [X] Reddit /r NetSec  | https://www.reddit.com/r/netsec/.rss
 - [X] Cisco Talos  | https://feeds.feedburner.com/feedburner/Talos
 - [X] Tech Republic  | https://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
 - [X] NIST Security  | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
