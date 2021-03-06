@@ -1,14 +1,14 @@
 # Feeds Configured or to confiugre
 ### Status | filename | url 
-- [x] ZDnet | url 
-- [x] Microsoft Security Response Center   | Url
-- [X] Google Online Security Blog | http://feeds.feedburner.com/GoogleOnlineSecurityBlog
-- [X] We Live Security | http://feeds.feedburner.com/eset/blog
-- [X] Krebs On Security | http://krebsonsecurity.com/feed 
-- [X] Dark Reading  | http://darkreading.com/rss/all.xml
-- [X] Schneier On Security  | http://schneier.com/blog/atom.xml 
-- [X] Threatpost  |  http://threatpost.com/feed 
-- [X] Naked Security  | http://nakedsecurity.sophos.com/feed 
+- [x] zdnetsecurity.cof | url 
+- [x] msrc.conf  | Url
+- [X] gsob.conf | http://feeds.feedburner.com/GoogleOnlineSecurityBlog
+- [X] welivesecurity.conf | http://feeds.feedburner.com/eset/blog
+- [X] krebsonsec.conf| http://krebsonsecurity.com/feed 
+- [X] darkreading.conf  | http://darkreading.com/rss/all.xml
+- [X] schneier.conf  | http://schneier.com/blog/atom.xml 
+- [X] threatpost.conf  |  http://threatpost.com/feed 
+- [X] nakedsecurity.conf | http://nakedsecurity.sophos.com/feed 
 - [X] Cisco Security Avisory  | http://blogs.cisco.com/security/feed 
 - [X] Bleeping Computer  |  https://www.bleepingcomputer.com/feed/
 - [X] CrowdStrike  | https://www.crowdstrike.com/blog/feed
@@ -25,38 +25,17 @@
 - [ ] portswigger.conf  | http://blog.portswigger.net/feeds/posts/default
 - [ ] secureworks.conf  | https://www.secureworks.com/rss?feed=research
 - [ ] us-cert.conf  | http://www.us-cert.gov/channels/techalerts.rdf
-- [ ] n | http://sysadmincasts.com/feed.rss
-- [ ] n | https://www.coalfire.com/Solutions/Coalfire-Labs/The-Coalfire-LABS-Blog?rss=blogs
-- [ ] n | https://d.uijn.nl/feed/
-- [ ] n | https://www.optiv.com/resources/blog/feed
-- [ ] n | https://ctus.io/rss/
-- [ ] n | http://artsploit.blogspot.com/feeds/posts/default?alt=rss
-- [ ] n | http://blog.0x3a.com/rss
-- [ ] n | http://blog.logrhythm.com/feed/
-- [ ] n | https://room362.com/post/index.xml
-- [ ] n | http://www.rvrsh3ll.net/blog/feed/
-- [ ] n | http://feeds.feedburner.com/NetspiBlog
-- [ ] n | https://www.n00py.io/feed/
-- [ ] n | http://www.fireeye.com/blog/feed
-- [ ] n | http://www.arneswinnen.net/feed/
-- [ ] n | https://blog.skullsecurity.org/feed
-- [ ] n | http://www.dawgyg.com/rss/
-- [ ] n | http://labofapenetrationtester.blogspot.com/feeds/posts/default
-- [ ] n | http://carnal0wnage.attackresearch.com/rss.xml
-- [ ] n | http://reverse.put.as/feed/
-- [ ] n | http://adsecurity.org/?feed=rss2
-- [ ] n | http://foxglovesecurity.com/feed/
-- [ ] n | http://www.acunetix.com/blog/feed/
-- [ ] n | http://stephensclafani.com/feed/
-- [ ] n | http://feeds.feedburner.com/n0where
-- [ ] n | http://malwaremustdie.blogspot.com/feeds/posts/default
-- [ ] n | http://feeds.feedburner.com/IrongeeksSecuritySite
-- [ ] n | http://www.sixdub.net/?feed=rss2
+- [ ] optiv.con | https://www.optiv.com/resources/blog/feed
+- [ ] ctus.conf | https://ctus.io/rss/
+- [ ] logrhythm.conf | https://logrhythm.com/feed/
+- [ ] room362.conf | https://room362.com/post/index.xml
+- [ ] n00py.conf | https://www.n00py.io/feed/
+- [ ] fireeyetr.conf | https://www.fireeye.com/blog/threat-research/_jcr_content.feed
+
 - [ ] n | http://r00tsec.blogspot.com/feeds/posts/default
 - [ ] n | http://www.contextis.com/resources/blog/blog.xml
 - [ ] n | http://feeds.trendmicro.com/Anti-MalwareBlog/
 - [ ] n | http://feeds.feedburner.com/OjsRants
-- [ ] n | http://www.sans.org/rr/rss/
 - [ ] n | http://w00tsec.blogspot.com/feeds/posts/default
 - [ ] n | https://www.blackhillsinfosec.com/feed/
 - [ ] n | http://blog.didierstevens.com/feed/
@@ -314,5 +293,5 @@
 - [ ] n | Exploit-DB.com RSS Feed	http://www.exploit-db.com/rss.php
 - [ ] n | Red Hat Errata	https://rhn.redhat.com/rpc/recent-errata.pxt
 - [ ] n | National Vulnerability Database	http://nvd.nist.gov/download/nvd-rss.xml
-- [ ] n | Latest Bulletins	http://aws.amazon.com/rss/security.rss
-- [ ] n | SecurityTracker Vulnerability Headlines	http://news.securitytracker.com/server/affiliate?61D319BD39309004
+- [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
+- [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
