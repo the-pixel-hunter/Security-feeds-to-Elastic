@@ -76,3 +76,17 @@
 - [ ] nvd.conf | https://nvd.nist.gov/download/nvd-rss.xml
 - [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
+- [ ] recordfut.conf | 
+
+### Podcasts
+- Security Now
+- Recorded Future
+- Beers with talos
+- BHIS
+- talos takes
+- Darknet Diaries
+- Enterprise tech
+- Smashing Security
+
+### Twitter accounts
+- Fiona 
