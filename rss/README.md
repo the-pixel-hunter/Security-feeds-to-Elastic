@@ -89,4 +89,5 @@
 - Smashing Security
 
 ### Twitter accounts
+- Keywords: CVE, zero-day, zeroday, exploit, vulnerablity, hacked
 - Fiona 
