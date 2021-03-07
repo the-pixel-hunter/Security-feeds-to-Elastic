@@ -86,7 +86,9 @@
 - talos takes
 - Darknet Diaries
 - Enterprise tech
-- Smashing Security
+- Smashing Security-
+- Hackable?
+
 
 ### Twitter accounts
 - Keywords: CVE, zero-day, zeroday, exploit, vulnerablity, hacked
