@@ -15,10 +15,10 @@ Tags are only used to ensure that the correct filters are applied to the correct
 
 ### Added Fields
 
-- source: Author/Company
+- source: Author/Comapny
 - types: Blogs, News, Advisory, Raw Intel
 - vendor: Google, Cisco, CrowdStrike, Elastic, Neutral 
-- sub_catagorys: Technical, Vulnerablitys, IPs, Intel, Vendor
+- sub_catagorys: Technical, Vulnerablitys, IPs, Intel, Vendor, Reddit Group(/r NetSec)
 - source_location: Worldwise, UK, USA, Europe, Asia
 
 ## To-Do
