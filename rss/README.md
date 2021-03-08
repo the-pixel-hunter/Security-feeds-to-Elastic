@@ -76,6 +76,7 @@
 - [ ] nvd.conf | https://nvd.nist.gov/download/nvd-rss.xml
 - [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
+- [ ] verzion.conf
 - [ ] recordfut.conf | 
 
 ### Podcasts
