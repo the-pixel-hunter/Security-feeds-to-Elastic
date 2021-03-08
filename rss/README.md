@@ -22,10 +22,10 @@
 - [X] volexity.conf | https://www.volexity.com/blog/feed/
 ### New Format
 - [x] portswigger.conf  | https://blog.portswigger.net/feeds/posts/default
-- [ ] secureworks.conf  | https://www.secureworks.com/rss?feed=research
-- [ ] us-cert.conf  | https://www.us-cert.gov/channels/techalerts.rdf
-- [ ] optiv.con | https://www.optiv.com/resources/blog/feed
-- [ ] ctus.conf | https://ctus.io/rss/
+- [X] secureworks.conf  | https://www.secureworks.com/rss?feed=research
+- [X] us-cert.conf  | https://us-cert.cisa.gov/ncas/alerts.xml
+- [X] optiv.conf | https://www.optiv.com/resources/blog/feed
+- [X] ctus.conf | https://ctus.io/rss/
 - [ ] logrhythm.conf | https://logrhythm.com/feed/
 - [ ] room362.conf | https://room362.com/post/index.xml
 - [ ] fireeyetr.conf | https://www.fireeye.com/blog/threat-research/_jcr_content.feed
