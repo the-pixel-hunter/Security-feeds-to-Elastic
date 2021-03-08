@@ -18,7 +18,7 @@ Tags are only used to ensure that the correct filters are applied to the correct
 - source: Author/Comapny
 - types: Podcast, Blogs, News, Advisory, Raw Intel
 - vendor: Google, Cisco, CrowdStrike, Elastic, Neutral 
-- sub_catagorys: Technical, Vulnerablitys, IPs, Intel, Vendor, Reddit Group(/r NetSec)
+- sub_catagorys: General, Security, Technical, Vulnerablitys, IPs, Intel, Vendor, Reddit Group(/r NetSec)
 - source_location: Worldwise, UK, USA, Europe, Asia
 
 ## To-Do
