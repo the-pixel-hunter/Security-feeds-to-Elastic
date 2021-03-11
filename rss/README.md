@@ -77,7 +77,8 @@
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
 - [ ] verzion.conf
 - [ ] recordfut.conf | 
-
+- [ ] https://www.forensicfocus.com/feed/
+-
 ### Podcasts
 - Security Now
 - Recorded Future
