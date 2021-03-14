@@ -3,7 +3,9 @@
 ## Overview
 
 RSS Feed => Logstash RSS poll => Pipeles to add fields/modify => ElasticSearch => View in Kibana
+
 Twitter Stream => Logstash Twitter API => Pipeline => ElasticSearch => View in Kibana
+
 - Install elasticsearch, Logstash, Kibana
 - Download logstash pipelines,
 - Add config to pipeline.yml file
