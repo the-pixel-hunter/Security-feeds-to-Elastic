@@ -1,4 +1,4 @@
-# Secuity-RSS-Feeds
+# Elastic Security Feeds
 
 ## Overview
 
