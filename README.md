@@ -2,7 +2,6 @@
 
 ## Overview
 
-RSS Feed => Logstash RSS poll => Pipeles to add fields/modify => ElasticSearch => View in Kibana
 
 Twitter Stream => Logstash Twitter API => Pipeline => ElasticSearch => View in Kibana
 
@@ -12,25 +11,28 @@ Twitter Stream => Logstash Twitter API => Pipeline => ElasticSearch => View in K
 - Create Index
 - Import Obejects for fancy dashboards
 
-### Tags
+## RSS Feeds
+
+RSS Feed => Logstash RSS poll => Pipeles to add fields/modify => ElasticSearch => View in Kibana
+
+### RSS Tags
 Tags are only used to ensure that the correct filters are applied to the correct feed
 
-### Added Fields
+### RSS Added Fields
+Fileds added for visuals:
 
 - source: Author/Comapny
 - types: Podcast, Blogs, News, Advisory, Raw Intel
-- vendor: Google, Cisco, CrowdStrike, Elastic, Neutral 
-- sub_catagorys: General, Security, Technical, Vulnerablitys, IPs, Intel, Vendor, Reddit Group(/r NetSec)
-- source_location: Worldwise, UK, USA, Europe, Asia
+- continents:Worldwise, UK, USA, Europe, Asia
+
+### RSS visuals
+
 
 ## To-Do
 - [ ] Always More Security Feeds
-- [ ] Add Podcast section
+- [ ] Add Podcast feeds
 - [ ] More Dashboards
-- [ ] Make use of Canvas
-- [ ] Add Geo Data for Source
-- [ ] Add more custom fields
+- [ ] Canvas Dash for twitter and RSS
+- [ ] Maybe Geo Data
+- [ ] Twitter tweets text analyises
 - [ ] Install guide
-
-## Future Projects 
-- [ ] Security Twitter Pipelines
