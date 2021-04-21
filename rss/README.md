@@ -86,9 +86,10 @@
 - BHIS
 - talos takes
 - Darknet Diaries
-- Enterprise tech
 - Smashing Security-
 - Hackable?
+- Offensive security
+- BluePrint
 
 
 ### Twitter accounts
