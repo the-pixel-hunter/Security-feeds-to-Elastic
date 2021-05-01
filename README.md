@@ -36,3 +36,4 @@ Fileds added for visuals:
 - [ ] Maybe Geo Data
 - [ ] Twitter tweets text analyises
 - [ ] Install guide
+- [ ] Add Certstream https://medium.com/security-analytics/elasticphish-using-certstream-and-the-elastic-stack-for-phishing-intelligence-b03b86ad5cfe
