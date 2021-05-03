@@ -60,7 +60,6 @@
 - [ ] taosec.conf | https://taosecurity.blogspot.com/feeds/posts/default
 - [ ] tenable.conf | https://www.tenable.com/blog/feed
 - [ ] redditxss.conf | https://www.reddit.com/r/xss/.rss
-- [ ] malwaremustdie.conf |	https://blog.malwaremustdie.org/feeds/posts/default?alt=rss
 - [ ] redditmal.conf | https://www.reddit.com/r/Malware/.rss
 - [ ] fortinettr.conf | https://feeds.feedburner.com/fortinet/blog/threat-research
 - [ ] carbonblack.conf | https://www.carbonblack.com/feed/
