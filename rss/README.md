@@ -29,7 +29,7 @@
 - [X] logrhythm.conf | https://logrhythm.com/feed/
 - [X] fireeyetr.conf | https://www.fireeye.com/blog/threat-research/_jcr_content.feed
 - [X] blackhills.conf | https://www.blackhillsinfosec.com/feed/
-- [ ] securelist.conf | https://securelist.com/feed/
+- [X] securelist.conf | https://securelist.com/feed/
 - [ ] pentesttool.conf | https://feeds.feedburner.com/PentestTools
 - [ ] trustedsec.conf | https://www.trustedsec.com/feed/
 - [ ] secureworksri.conf | https://www.secureworks.com/rss?feed=blog&category=research-intelligence
