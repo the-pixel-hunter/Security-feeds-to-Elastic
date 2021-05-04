@@ -30,16 +30,11 @@
 - [X] fireeyetr.conf | https://www.fireeye.com/blog/threat-research/_jcr_content.feed
 - [X] blackhills.conf | https://www.blackhillsinfosec.com/feed/
 - [X] securelist.conf | https://securelist.com/feed/
-- [ ] pentesttool.conf | https://feeds.feedburner.com/PentestTools
-- [ ] trustedsec.conf | https://www.trustedsec.com/feed/
+- [X] pentesttool.conf | https://feeds.feedburner.com/PentestTools
 - [ ] secureworksri.conf | https://www.secureworks.com/rss?feed=blog&category=research-intelligence
-- [ ] sensepost.conf | https://sensepost.com/rss.xml
 - [ ] register.conf| https://www.theregister.com/security/headlines.atom
-- [ ] symantecti.conf | https://medium.com/feed/threat-intel
 - [ ] zscaler.conf | https://www.zscaler.com/blogs/feeds
 - [ ] wired.conf	| https://www.wired.com/category/security/feed
-- [ ] redditcf.conf | http://www.reddit.com/r/computerforensics/.rss
-- [ ] trustedsec.conf |	https://www.trustedsec.com/feed/
 - [ ] toolswatch.conf | https://toolswatch.org/feed/
 - [ ] kaspersky.conf |	https://www.kaspersky.com/blog/feed/
 - [ ] snort.conf | https://feeds.feedburner.com/Snort
@@ -49,12 +44,8 @@
 - [ ] cloudflare.conf |	https://blog.cloudflare.com/rss/
 - [ ] rapid7.conf | https://blog.rapid7.com/rss/
 - [ ] infosecmagazine.conf | https://www.infosecurity-magazine.com/rss/news/
-- [ ] veracode.conf | https://www.veracode.com/blog/feed/
-- [ ] redditvrd.conf | https://www.reddit.com/r/vrd/.rss
 - [ ] 451research.conf | https://451research.com/blog?format=feed&type=rss
 - [ ] abuse_ch.conf | https://abuse.ch/?feed=rss2
-- [ ] reddithb.conf | https://www.reddit.com/r/HackBloc/.rss
-- [ ] lastpass.conf | https://blog.lastpass.com/feed/
 - [ ] irongreeks.conf | https://feeds.feedburner.com/IrongeeksSecuritySite
 - [ ] kali.conf | https://www.kali.org/feed/
 - [ ] taosec.conf | https://taosecurity.blogspot.com/feeds/posts/default
@@ -68,8 +59,6 @@
 - [ ] offensivesec.conf |	https://www.offensive-security.com/feed/
 - [ ] redditpwn.conf |	https://www.reddit.com/r/pwned/.rss
 - [ ] thmcb.conf|	https://blog.intego.com/feed/
-- [ ] malwarebytes.conf| https://blog.malwarebytes.com/feed/
-- [ ] malwaretraffic.conf | https://www.malware-traffic-analysis.net/blog-entries.rss
 - [ ] redditroot.conf |	https://www.reddit.com/r/rootkit/.rss
 - [ ] nvd.conf | https://nvd.nist.gov/download/nvd-rss.xml
 - [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
