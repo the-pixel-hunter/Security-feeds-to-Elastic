@@ -1,0 +1,20 @@
+#Zdnet Security Feed, author: https://github.com/the-pixel-hunter/Secuity-RSS-Feeds
+input{
+	rss{
+		interval => 180
+		url => "https://www.zdnet.com/topic/security/rss.xml"
+		tags => ["zdnet"]
+	}
+}
+
+filter{
+  if ("zdnet" in [tags]){
+    mutate {
+    	add_field => { "[rss][source][name]" => "ZDnet" }
+			add_field => { "[rss][source][name_full]" => "ZDnet Security" }
+			add_field => { "[rss][source][logo]" => "url-placeholder" }
+			add_field => { "[rss][source][type]" => ["news"] }
+			add_field => { "[rss][feed][type]" => "news" }
+    }
+  }
+}
