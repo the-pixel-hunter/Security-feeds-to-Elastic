@@ -1,0 +1,19 @@
+input{
+  rss{
+    interval => 180
+    url => "https://krebsonsecurity.com/feed/"
+    tags => ["krebsonsecurity"]
+  }
+}
+# Input filter if filed needs converting or chaning. also add the source here.
+filter{
+  if ("krebsonsecurity" in [tags]){
+    mutate{   
+			add_field => { "[rss][source][name]" => "Krebs" }
+			add_field => { "[rss][source][name_full]" => "Krebs On Security" }
+			add_field => { "[rss][source][logo]" => "url-placeholder"}
+			add_field => { "[rss][source][type]" => "blogger"}
+			add_field => { "[rss][feed][type]" => "blog" }
+		}
+	}
+}
