@@ -1,30 +1,30 @@
 # Elastic Security Feeds
 
 ## Overview
-
+A simple project that brings together many great open Projects and some of my own changes to pull a bunch of ONIST Sources and put them into a vairaty dashboards.
 
 Twitter Stream => Logstash Twitter API => Pipeline => ElasticSearch => View in Kibana
+RSS Feed => Logstas RSS Poller => Pipeline => ElasticSearch => View in Kibana
+Certstream => Python-puller => Logstash File Reader => ElasticSearch => View in Kibana
+Filebeat Threatintel = > ElasticSearch => View in Kibana
 
 - Install elasticsearch, Logstash, Kibana
-- Download logstash pipelines,
+- Download logstash pipelines
 - Add config to pipeline.yml file
-- Create Index
+- Create Inde(s)
 - Import Obejects for fancy dashboards
 
 ## RSS Feeds
 
 RSS Feed => Logstash RSS poll => Pipeles to add fields/modify => ElasticSearch => View in Kibana
 
-### RSS Tags
-Tags are only used to ensure that the correct filters are applied to the correct feed
-
 ### RSS Added Fields
 Fileds added for visuals:
 
-- source: Author/Comapny
-- types: Podcast, Blogs, News, Advisory, Raw Intel
-- continents:Worldwise, UK, USA, Europe, Asia
-
+- rss.source.name
+- rss.source.name_full:
+- rss.feed.type: 
+- rss.feed.url:
 ### RSS visuals
 
 
