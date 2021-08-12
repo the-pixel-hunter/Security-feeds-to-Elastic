@@ -1,3 +1,4 @@
+# Author:
 input{
   rss{
     interval => 180
