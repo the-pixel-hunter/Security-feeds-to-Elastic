@@ -1,5 +1,4 @@
 # Feeds Configured or to confiugre
-### Status | filename | url 
 - [x] zdnetsecurity.cof | url 
 - [x] msrc.conf  | Url
 - [X] gsob.conf | https://feeds.feedburner.com/GoogleOnlineSecurityBlog
@@ -20,7 +19,6 @@
 - [X] thn.conf  | https://feeds.feedburner.com/TheHackersNews/
 - [X] troyhunt.conf  | https://www.troyhunt.com/rss/
 - [X] volexity.conf | https://www.volexity.com/blog/feed/
-### New Format
 - [x] portswigger.conf  | https://blog.portswigger.net/feeds/posts/default
 - [X] secureworks.conf  | https://www.secureworks.com/rss?feed=research
 - [X] us-cert.conf  | https://us-cert.cisa.gov/ncas/alerts.xml
@@ -74,12 +72,7 @@
 - BHIS
 - talos takes
 - Darknet Diaries
-- Smashing Security-
+- Smashing Security
 - Hackable?
 - Offensive security
 - BluePrint
-
-
-### Twitter accounts
-- Keywords: CVE, zero-day, zeroday, exploit, vulnerablity, hacked
-- Fiona 
