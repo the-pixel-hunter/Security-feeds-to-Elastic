@@ -58,7 +58,6 @@
 - [ ] redditpwn.conf |	https://www.reddit.com/r/pwned/.rss
 - [ ] thmcb.conf|	https://blog.intego.com/feed/
 - [ ] redditroot.conf |	https://www.reddit.com/r/rootkit/.rss
-- [ ] nvd.conf | https://nvd.nist.gov/download/nvd-rss.xml
 - [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
 - [ ] verzion.conf
