@@ -1,0 +1,11 @@
+- id: rss_feeds
+  path: /etc/logstash/conf.d/rss/*/*.conf
+
+- id: twitter_feed
+  path: /etc/logstash/conf.d/twitter/*.conf
+
+- id: cve_feeds
+  path: /etc/logstash/conf.d/cve/*.conf
+
+- id: certstream_logs
+  path: /etc/logstash/conf.d/certstream/*.conf
