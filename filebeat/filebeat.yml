@@ -1,0 +1,12 @@
+filebeat.inputs:
+- type: httpjson
+  config_version: 2
+  interval: 1h
+  request.url: https://services.nvd.nist.gov/rest/json/cves/1.0?resultsPerPage=2000
+  request.method: GET
+  request.transforms:
+    - set:
+        target: url.params.modStartDate
+        value: '[[now (parseDuration "-2h")]]'
+  response.split:
+  target: body.result.CVE_Items
