@@ -7,6 +7,6 @@ filebeat.inputs:
   request.transforms:
     - set:
         target: url.params.modStartDate
-        value: '[[now (parseDuration "-2h")]]'
+        value: '[[now (parseDuration "-1h")]]'
   response.split:
   target: body.result.CVE_Items
