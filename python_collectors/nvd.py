@@ -5,8 +5,9 @@ from elasticsearch import Elasticsearch
 
 elastic_url = "http://localhost:9200/"
 elastic_ssl_verify = False
-elastic_index = "nvd"
-elastic_pipelane_name = "nvd_cve"
+elastic_index_prefix = "intel-cves-"
+elastic_pipelane_name = "nvd_to_elastic"
+cve_feed = "nvd"
 
 time_old = datetime.datetime.now() - datetime.timedelta(minutes=65)
 look_back_time = time_old.strftime("%Y-%m-%dT%H:%M:%S") + ":000%20UTC-00:00"
@@ -24,9 +25,13 @@ if response.status_code != 200:
 
 response_json = json.loads(response.text)
 cves = response_json['result']['CVE_Items']
+
 if len(cves) != 0: 
     elastic_connection = Elasticsearch([elastic_url],verify_certs=elastic_ssl_verify)
     for cve in cves:
+        cve.CVE_data_meta.ID
+        cve_date =  cve['cve']['CVE_data_meta']['ID'].split('-')[1]
+        elastic_index = elastic_index_prefix + cve_date + cve_feed
         elastic_connection.index(elastic_index, cve,  pipeline=elastic_pipelane_name)	
 
 
