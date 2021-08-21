@@ -6,6 +6,8 @@ from elasticsearch import Elasticsearch
 
 elastic_url = "http://localhost:9200/"
 elastic_ssl_verify = False
+elastic_username = "intel_ingest"
+elastic_passwword = "changeme"
 elastic_index = "intel-cves-nvd"
 elastic_pipelane_name = "nvd_to_elastic"
 BASE_URL = "https://services.nvd.nist.gov/rest/json/cves/1.0?resultsPerPage=2000"
@@ -29,7 +31,7 @@ def nvd_collect(start_from):
 
     cves = response_json['result']['CVE_Items']
     if len(cves) != 0: 
-        elastic_connection = Elasticsearch([elastic_url],verify_certs=elastic_ssl_verify)
+        elastic_connection = Elasticsearch([elastic_url], http_auth=(elastic_username, elastic_passwword),verify_certs=elastic_ssl_verify)
         for cve in cves:
             doc_id = "nvd_" + str(cve['cve']['CVE_data_meta']['ID'])
             elastic_connection.index(elastic_index, cve,  id=doc_id,pipeline=elastic_pipelane_name)

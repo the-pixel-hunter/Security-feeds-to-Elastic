@@ -5,7 +5,9 @@ import time
 
 elastic_url = "http://localhost:9200/"
 elastic_ssl_verify = False
-elastic_index = "certstream"
+elastic_username = "intel_ingest"
+elastic_passwword = "changeme"
+elastic_index = "intel-certstream"
 elastic_pipelane_name = "certstream_to_elastic"
 
 def print_callback(message, context):
@@ -28,7 +30,7 @@ def print_callback(message, context):
         elastic_connection.index(elastic_index, elastic_json,  pipeline=elastic_pipelane_name)	
     
 if __name__ == "__main__":
-    elastic_connection = Elasticsearch([elastic_url],verify_certs=elastic_ssl_verify)
+    elastic_connection = Elasticsearch([elastic_url], http_auth=(elastic_username, elastic_passwword), verify_certs=elastic_ssl_verify)
     logging.basicConfig(format='[%(levelname)s:%(name)s] %(asctime)s - %(message)s', level=logging.INFO)
     while True:
         try:
