@@ -30,7 +30,7 @@
 - [X] securelist.conf | https://securelist.com/feed/
 - [X] pentesttool.conf | https://feeds.feedburner.com/PentestTools
 - [ ] secureworksri.conf | https://www.secureworks.com/rss?feed=blog&category=research-intelligence
-- [ ] register.conf| https://www.theregister.com/security/headlines.atom
+- [X] register.conf| https://www.theregister.com/security/headlines.atom
 - [ ] zscaler.conf | https://www.zscaler.com/blogs/feeds
 - [ ] wired.conf	| https://www.wired.com/category/security/feed
 - [ ] toolswatch.conf | https://toolswatch.org/feed/
@@ -60,8 +60,9 @@
 - [ ] redditroot.conf |	https://www.reddit.com/r/rootkit/.rss
 - [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
-- [ ] verzion.conf
-- [ ] recordfut.conf | 
+- [ ] verzion.conf   |
+- [ ] recordfut.conf |
+- [ ]  
 - [ ] https://www.forensicfocus.com/feed/
 -
 ### Podcasts

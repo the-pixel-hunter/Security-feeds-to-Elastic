@@ -1,4 +1,3 @@
-
 import certstream
 import logging
 from elasticsearch import Elasticsearch
@@ -28,19 +27,12 @@ def print_callback(message, context):
 
         elastic_connection.index(elastic_index, elastic_json,  pipeline=elastic_pipelane_name)	
     
-
-def on_open():
-	logging.info("Connection successfully established!")
-
-def on_error(instance, exception):
-    # Instance is the CertStreamClient instance that barfed
-	logging.error("Exception in instance -> {}, Exception -> {}".format(instance, exception)) 
-
 if __name__ == "__main__":
     elastic_connection = Elasticsearch([elastic_url],verify_certs=elastic_ssl_verify)
     logging.basicConfig(format='[%(levelname)s:%(name)s] %(asctime)s - %(message)s', level=logging.INFO)
-
-    while True: 
-        certstream.listen_for_events(print_callback, on_open=on_open, on_error=on_error, url='wss://certstream.calidog.io/')
-        logging.error("Certstream hit an error, sleeping 2s and restarting...")
-        time.sleep(2)
+    while True:
+        try:
+            certstream.listen_for_events(print_callback, url='wss://certstream.calidog.io/')
+        except:
+            print("Error Sleeping for 5s")
+            time.sleep(5)
