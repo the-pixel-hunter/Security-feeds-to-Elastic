@@ -1,0 +1,14 @@
+[Unit]
+Description=Certstream collector
+After=multi-user.target
+
+
+[Service]
+Type=simple
+
+ExecStart=/usr/bin/python3 /opt/certstream_collector/source/certstream_collector.py
+
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

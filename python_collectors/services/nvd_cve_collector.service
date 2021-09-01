@@ -1,0 +1,14 @@
+[Unit]
+Description=Service to collect CVEs from the NVD database
+After=multi-user.target
+
+
+[Service]
+Type=simple
+
+ExecStart=/usr/bin/python3 /opt/nvd_service_collector/source/nvd_cve_collector.py
+
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
