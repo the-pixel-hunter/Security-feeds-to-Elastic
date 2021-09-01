@@ -1,4 +1,3 @@
 config.reload.automatic: True
 config.reload.interval: 3s
 queue.type: "persisted"
-pipeline.unsafe_shutdown: True
