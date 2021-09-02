@@ -12,7 +12,6 @@
 - [X] Bleeping Computer  |  https://www.bleepingcomputer.com/feed/
 - [X] CrowdStrike  | https://www.crowdstrike.com/blog/feed
 - [X] elastic.conf  | https://www.elastic.co/blog/feed
-- [X] Redditnetsec.conf | https://www.reddit.com/r/netsec/.rss
 - [X] ciscotalos.conf  | https://feeds.feedburner.com/feedburner/Talos
 - [X] techrepublic.conf | https://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
 - [X] nistsec.conf  | https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
@@ -48,27 +47,30 @@
 - [ ] kali.conf | https://www.kali.org/feed/
 - [ ] taosec.conf | https://taosecurity.blogspot.com/feeds/posts/default
 - [ ] tenable.conf | https://www.tenable.com/blog/feed
-- [ ] redditxss.conf | https://www.reddit.com/r/xss/.rss
-- [ ] redditmal.conf | https://www.reddit.com/r/Malware/.rss
 - [ ] fortinettr.conf | https://feeds.feedburner.com/fortinet/blog/threat-research
 - [ ] carbonblack.conf | https://www.carbonblack.com/feed/
 - [ ] fireeye.conf | https://www.fireeye.com/blog/feed
-- [ ] redditba.conf | https://www.reddit.com/r/blackhat/.rss
 - [ ] offensivesec.conf |	https://www.offensive-security.com/feed/
-- [ ] redditpwn.conf |	https://www.reddit.com/r/pwned/.rss
 - [ ] thmcb.conf|	https://blog.intego.com/feed/
-- [ ] redditroot.conf |	https://www.reddit.com/r/rootkit/.rss
 - [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
 - [ ] verzion.conf   |
 - [ ] recordfut.conf |
 - [ ]  
 - [ ] https://www.forensicfocus.com/feed/
--
+
+- [X] Redditnetsec.conf | https://www.reddit.com/r/netsec/.rss
+- [ ] redditxss.conf | https://www.reddit.com/r/xss/.rss
+- [ ] redditmal.conf | https://www.reddit.com/r/Malware/.rss
+- [ ] redditroot.conf |	https://www.reddit.com/r/rootkit/.rss
+- [ ] redditpwn.conf |	https://www.reddit.com/r/pwned/.rss
+- [ ] redditba.conf | https://www.reddit.com/r/blackhat/.rss
+
+
 ### Podcasts
-- Security Now
+- [X] Security Now
 - Recorded Future
-- Beers with talos
+- [X] Beers with talos
 - BHIS
 - talos takes
 - Darknet Diaries
