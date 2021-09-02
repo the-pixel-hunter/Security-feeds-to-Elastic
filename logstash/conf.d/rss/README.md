@@ -24,7 +24,6 @@
 - [X] optiv.conf | https://www.optiv.com/resources/blog/feed
 - [X] ctus.conf | https://ctus.io/rss/
 - [X] logrhythm.conf | https://logrhythm.com/feed/
-- [X] fireeyetr.conf | https://www.fireeye.com/blog/threat-research/_jcr_content.feed
 - [X] blackhills.conf | https://www.blackhillsinfosec.com/feed/
 - [X] securelist.conf | https://securelist.com/feed/
 - [X] pentesttool.conf | https://feeds.feedburner.com/PentestTools
@@ -32,44 +31,35 @@
 - [X] register.conf| https://www.theregister.com/security/headlines.atom
 - [ ] zscaler.conf | https://www.zscaler.com/blogs/feeds
 - [ ] wired.conf	| https://www.wired.com/category/security/feed
-- [ ] toolswatch.conf | https://toolswatch.org/feed/
-- [ ] kaspersky.conf |	https://www.kaspersky.com/blog/feed/
 - [ ] snort.conf | https://feeds.feedburner.com/Snort
 - [ ] phishlab.conf | https://info.phishlabs.com/blog/rss.xml
-- [ ] paloalto.conf | https://feeds.feedburner.com/PaloAltoNetworks
-- [ ] aricrack-ng.conf | https://aircrack-ng.blogspot.com/feeds/posts/default
-- [ ] cloudflare.conf |	https://blog.cloudflare.com/rss/
 - [ ] rapid7.conf | https://blog.rapid7.com/rss/
 - [ ] infosecmagazine.conf | https://www.infosecurity-magazine.com/rss/news/
-- [ ] 451research.conf | https://451research.com/blog?format=feed&type=rss
 - [ ] abuse_ch.conf | https://abuse.ch/?feed=rss2
-- [ ] irongreeks.conf | https://feeds.feedburner.com/IrongeeksSecuritySite
-- [ ] kali.conf | https://www.kali.org/feed/
-- [ ] taosec.conf | https://taosecurity.blogspot.com/feeds/posts/default
-- [ ] tenable.conf | https://www.tenable.com/blog/feed
 - [ ] fortinettr.conf | https://feeds.feedburner.com/fortinet/blog/threat-research
 - [ ] carbonblack.conf | https://www.carbonblack.com/feed/
-- [ ] fireeye.conf | https://www.fireeye.com/blog/feed
 - [ ] offensivesec.conf |	https://www.offensive-security.com/feed/
-- [ ] thmcb.conf|	https://blog.intego.com/feed/
-- [ ] awssec.conf |	https://aws.amazon.com/security/security-bulletins/rss/feed/
 - [ ] darktrace.conf | https://www.darktrace.com/blog/index.xml
 - [ ] verzion.conf   |
-- [ ] recordfut.conf |
-- [ ]  
-- [ ] https://www.forensicfocus.com/feed/
+- [ ] recordedfutur.conf |https://www.recordedfuture.com/blog/feed/
+- [ ] tenableexposure.conf | https://www.tenable.com/blog/cyber-exposure-alerts/feed
+- [ ] tenableblog.conf | https://www.tenable.com/blog/feed
+- [ ] tenablesecurity.conf | https://www.tenable.com/security/feed
+- [ ] tenablenews.conf | https://www.tenable.com/media/in-the-news/feed
 
-- [X] Redditnetsec.conf | https://www.reddit.com/r/netsec/.rss
-- [ ] redditxss.conf | https://www.reddit.com/r/xss/.rss
-- [ ] redditmal.conf | https://www.reddit.com/r/Malware/.rss
-- [ ] redditroot.conf |	https://www.reddit.com/r/rootkit/.rss
-- [ ] redditpwn.conf |	https://www.reddit.com/r/pwned/.rss
-- [ ] redditba.conf | https://www.reddit.com/r/blackhat/.rss
-
+- [X] netsec.conf | https://www.reddit.com/r/netsec/.rss
+- [ ] xss.conf | https://www.reddit.com/r/xss/.rss
+- [ ] malware.conf | https://www.reddit.com/r/Malware/.rss
+- [ ] rootkit.conf |	https://www.reddit.com/r/rootkit/.rss
+- [ ] pwned.conf |	https://www.reddit.com/r/pwned/.rss
+- [ ] blackhat.conf | https://www.reddit.com/r/blackhat/.rss
+- [ ] reverseengineering.conf | https://www.reddit.com/r/ReverseEngineering/.rss
+- [ ] blueteamsec.conf | https://www.reddit.com/r/blueteamsec/.rss
+- [ ] exploitdev.conf | https://www.reddit.com/r/ExploitDev/
 
 ### Podcasts
 - [X] Security Now
-- Recorded Future
+- [X] Recorded Future - https://www.recordedfuture.com/category/podcast/feed/
 - [X] Beers with talos
 - BHIS
 - talos takes
