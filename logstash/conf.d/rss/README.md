@@ -44,18 +44,18 @@
 - [ ] recordedfutur.conf |https://www.recordedfuture.com/blog/feed/
 - [ ] tenableexposure.conf | https://www.tenable.com/blog/cyber-exposure-alerts/feed
 - [ ] tenableblog.conf | https://www.tenable.com/blog/feed
-- [ ] tenablesecurity.conf | https://www.tenable.com/security/feed
+- [X] tenablesecurity.conf | https://www.tenable.com/security/feed
 - [ ] tenablenews.conf | https://www.tenable.com/media/in-the-news/feed
 
 - [X] netsec.conf | https://www.reddit.com/r/netsec/.rss
-- [ ] xss.conf | https://www.reddit.com/r/xss/.rss
-- [ ] malware.conf | https://www.reddit.com/r/Malware/.rss
-- [ ] rootkit.conf |	https://www.reddit.com/r/rootkit/.rss
-- [ ] pwned.conf |	https://www.reddit.com/r/pwned/.rss
-- [ ] blackhat.conf | https://www.reddit.com/r/blackhat/.rss
-- [ ] reverseengineering.conf | https://www.reddit.com/r/ReverseEngineering/.rss
-- [ ] blueteamsec.conf | https://www.reddit.com/r/blueteamsec/.rss
-- [ ] exploitdev.conf | https://www.reddit.com/r/ExploitDev/
+- [X] xss.conf | https://www.reddit.com/r/xss/.rss
+- [X] malware.conf | https://www.reddit.com/r/Malware/.rss
+- [X] rootkit.conf |	https://www.reddit.com/r/rootkit/.rss
+- [X] pwned.conf |	https://www.reddit.com/r/pwned/.rss
+- [X] blackhat.conf | https://www.reddit.com/r/blackhat/.rss
+- [X] reverseengineering.conf | https://www.reddit.com/r/ReverseEngineering/.rss
+- [X] blueteamsec.conf | https://www.reddit.com/r/blueteamsec/.rss
+- [X] exploitdev.conf | https://www.reddit.com/r/ExploitDev/
 
 ### Podcasts
 - [X] Security Now

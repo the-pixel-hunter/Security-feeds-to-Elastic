@@ -19,18 +19,3 @@ Fileds added for visuals:
 
 ### RSS visuals
 
-
-## To-Do
-- [ ] Always More RSS Feeds
-- [ ] Add Podcast feeds /filter them out
-- [ ] Add some more twitter account examples
-- [ ] Add finish RSS feeds off
-- [ ] Clean up pipelines
-- [ ] Create Dashboards
-- [ ] Create Mappings 
-- [ ] Create Dashboards (Home, Twitter, RSS, CVE, etc)
-- [ ] Canvas Viewing Option example 
-- [x] Add twitter pipelines regex match for CVE and IPs? 'CVE (?i)\bcve\-\d{4}-\d{4,7}'
-- [ ] Create install guide
-
-- [x] Add Certstream
