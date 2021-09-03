@@ -20,7 +20,8 @@ FEEDS = [
     "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSFFpZ0FQAQ/sections/CAQiSkNCQVNNUW9JTDIwdk1EZGpNWFlTQldWdUxVZENHZ0pIUWlJT0NBUWFDZ29JTDIwdk1ERnNjSE1xQ2hJSUwyMHZNREZzY0hNb0FBKi4IACoqCAoiJENCQVNGUW9JTDIwdk1EZGpNWFlTQldWdUxVZENHZ0pIUWlnQVABUAE?hl=en-GB&gl=GB&ceid=GB%3Aen | Technology - Computing - Google News",
     "https://news.google.com/rss/search?q=vulnerability%20when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen | Search - Vulnerability - Google News",
     "https://news.google.com/rss/search?q=cve%20when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen | Search - CVE - Google News",
-    "https://news.google.com/rss/search?q=Data%20Breach%20when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen | Search - Data Breach - Google News"
+    "https://news.google.com/rss/search?q=Data%20Breach%20when%3A1d&hl=en-GB&gl=GB&ceid=GB%3Aen | Search - Data Breach - Google News",
+    "https://news.google.com/rss/search?q=Malware&hl=en-GB&gl=GB&ceid=GB%3Aen | Search - Malware - Google News"
 ]
 
 
@@ -67,7 +68,8 @@ def transform_item(item, url, rss_group):
             'source_full' : rss_group,
             'type' : "Google News",
             'source' : source,
-            'Feed' : url
+            'Feed' : url,
+            'guid': guid
         }
 
 if __name__ == "__main__":
