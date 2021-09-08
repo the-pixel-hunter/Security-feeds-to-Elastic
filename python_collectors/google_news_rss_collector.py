@@ -40,16 +40,14 @@ def get_rss_feed(feed):
     bs_data = BeautifulSoup(response.text, "xml")
     news = bs_data.find_all('item')
     return news, vars[0], vars[1]
-
-def dump_json(data, location):
-    with open(location, 'w') as f:
-        json.dump(data, f)
         
 def collect_feeds():
     for feed in FEEDS:
         news, url, rss_group = get_rss_feed(feed)
         for item in news:
-            NEWS_JSON.append(transform_item(item, url, rss_group)) 
+           with open(location, 'a') as f:
+            json.dump(transform_item(item, url, rss_group), f)
+            f.write('\n')
     return 
 
 def transform_item(item, url, rss_group):
@@ -75,16 +73,11 @@ def transform_item(item, url, rss_group):
 if __name__ == "__main__":
     
     while True: 
-        NEWS_JSON = []
-
         now = datetime.now()
         current_time = now.strftime("%d-%m-%yT%H:%M:%S")
         file_name = "news-"+current_time+".json"
         location = os.path.join(FILE_PATH, file_name)
-
         print("INFO: Starting Collection at "+current_time)
         collect_feeds()
-        dump_json(NEWS_JSON, location)
-
         print("INFO:Sleeping For",SLEEP_TIME)
         time.sleep(SLEEP_TIME)
